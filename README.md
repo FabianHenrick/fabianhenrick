@@ -4,8 +4,6 @@
 <a href="https://www.linkedin.com/in/fabian-henrick-55804b134"><img src="https://img.shields.io/badge/-Fabian%20Henrick-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:fabianhenrick@gmail.com"><img src="https://img.shields.io/badge/-fabianhenrick@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-</p>
-@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 16 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Minecraft. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
