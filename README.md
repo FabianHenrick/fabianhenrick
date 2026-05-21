@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 16 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Minecraft. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira  migração para a área de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por Mangás e Animes, e costumo jogar no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- 🏎 &nbsp; Sou apaixonado por Mangás e Animes, e costumo jogar no meu tempo livre.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
